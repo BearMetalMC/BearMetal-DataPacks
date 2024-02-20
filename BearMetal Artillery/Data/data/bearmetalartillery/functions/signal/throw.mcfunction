@@ -1,6 +1,6 @@
 # AT AS snowball
 
-say throwing smoke signal
+# say throwing smoke signal
 
 summon marker ~ ~ ~ {Tags: ["bma.smoke"]}
 

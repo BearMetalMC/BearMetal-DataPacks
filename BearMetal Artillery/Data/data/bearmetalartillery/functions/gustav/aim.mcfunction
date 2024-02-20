@@ -5,6 +5,7 @@ scoreboard players add #id bma.target_id 1
 
 tag @s add compare
 
+execute at @s as @e[tag=bma.sg.target,tag=!bma.marked] if score @s bma.target_id = @e[tag=compare,limit=1] bma.target_id facing entity @s feet rotated ~ -45 run tag @s add bma.marked
 execute at @s as @e[tag=bma.sg.target] if score @s bma.target_id = @e[tag=compare,limit=1] bma.target_id facing entity @s feet rotated ~ -45 run tp @e[tag=compare,limit=1] ~ ~ ~ ~ ~
 tag @s remove compare
 tag @s add bma.aimed

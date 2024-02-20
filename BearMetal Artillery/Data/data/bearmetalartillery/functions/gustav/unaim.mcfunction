@@ -1,0 +1,1 @@
+tag @e[tag=bma.aimed,tag=bma.sg.cooldown] remove bma.aimed

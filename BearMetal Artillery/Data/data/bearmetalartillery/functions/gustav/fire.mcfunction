@@ -52,6 +52,8 @@ tag @s add bma.sg.cooldown
 tag @s add compare
 execute as @e[tag=bma.sg.target] at @s if score @s bma.target_id = @e[tag=compare,limit=1] bma.target_id run function bearmetalartillery:gustav/prepare_for_hit
 tag @s remove compare
-tag @s remove bma.aimed
+tag @s remove bma.sg.active
 scoreboard players set @s bma.time_to_fire 0
-scoreboard players set @s bma.cooldown 6000
+schedule function bearmetalartillery:gustav/unaim 3s
+# scoreboard players set @s bma.cooldown 6000
+scoreboard players set @s bma.cooldown 200
