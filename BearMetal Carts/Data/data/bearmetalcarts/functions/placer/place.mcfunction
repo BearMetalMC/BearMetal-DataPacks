@@ -1,0 +1,2 @@
+$execute at @s store success score @s bmc.success if block ~ ~-1 ~ #bearmetalcarts:railable run setblock ~ ~ ~ $(id) keep
+execute if score @s bmc.success matches 1 run function bearmetalcarts:placer/place_success

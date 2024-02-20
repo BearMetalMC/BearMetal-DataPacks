@@ -1,0 +1,10 @@
+[
+  {
+    "function": "fill_player_head",
+    "entity": "this"
+  },
+  {
+    "function": "set_nbt",
+    "tag": "{BlockEntityTag:{note_block_sound:\"entity.cat.ambient\"}}"
+  }
+]

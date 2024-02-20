@@ -1,0 +1,1 @@
+execute as @e[type=#bearmetalcarts:carts] at @s if block ~ ~ ~ air run function bearmetalcarts:jump
