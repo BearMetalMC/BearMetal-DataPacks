@@ -16,7 +16,16 @@
   - [BearMetal Smoke and Steel](#bearmetal-smoke-and-steel)
     - [Features](#features-5)
   - [BearMetal Artillery](#bearmetal-artillery)
+    - [Features](#features-6)
   - [BearMetal Railways](#bearmetal-railways)
+    - [Features](#features-7)
+  - [BearMetal Resource Nodes](#bearmetal-resource-nodes)
+    - [Features](#features-8)
+- [Pipe Dreams](#pipe-dreams)
+  - [BearMetal Vroom](#bearmetal-vroom)
+    - [Features](#features-9)
+  - [BearMetal Nyoom](#bearmetal-nyoom)
+    - [Features](#features-10)
 
 # The Vision of all this
 
@@ -166,6 +175,8 @@ The discovery of gunpowder led to a revolution of arms. An extension of [BearMet
 
 The biggest gunz around! An extension of [BearMetal Grinder](#bearmetal-grinder) that really enhances late-game with big gunz. Could be used with [BearMetal Railways](#bearmetal-railways) to allow the railway guns to move along tracks made with it. Requires [BearMetal Smoke and Steel](#bearmetal-smoke-and-steel)
 
+### Features
+
 - Smaller guns can be built in an "assembly station"
 - Larger guns start out as multiblock structures if I can figure that out
 - Start out by unlocking small mortars with shorter range
@@ -177,3 +188,46 @@ The biggest gunz around! An extension of [BearMetal Grinder](#bearmetal-grinder)
 - Barrage mode that fires all available guns at target 
 
 ## BearMetal Railways
+
+I feel this is the most ambitious one of the lot. Not only do I need to create a system that ties multiple entities together, but I then need to make them follow a path, and also come up with a way to do the path. I hope I can do this one because it will be dope. This is basically going to be the "poor man's create mod."
+
+### Features
+
+- Create trains capable of running autonomous schedules
+- Train cars capable of storage or passenger transportation
+- Custom train models (probably)
+  - If I can find a way to hook into the blockbench plugin that converts structures to a model, then we good
+    - otherwise I'm thinking I may be able to find a way to do it without it, but that will require significant engineering
+  - If I can find a non-destructive way to create the structure file
+
+## BearMetal Resource Nodes
+
+If I can do custom structures, I can do resource nodes.
+
+### Features
+
+- Randomly generated resource nodes
+  - Nodes have different levels of richness
+- Can periodically mine at a node to receive that resource
+- An extractor can extract the resource into a nearby chest at a greater rate than mining manually
+
+# Pipe Dreams
+
+## BearMetal Vroom
+
+Cars? I think so. Optionally used with [BearMetal Tech Ascension](#bearmetal-tech-ascension)
+
+### Features
+
+- Cars
+- Trucks
+- Motorcycles
+
+## BearMetal Nyoom
+
+Planes? I think so. Optionally used with [BearMetal Tech Ascension](#bearmetal-tech-ascension)
+
+### Features
+
+- Planes
+- Helicopter
