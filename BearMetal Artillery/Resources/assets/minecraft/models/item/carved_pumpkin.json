@@ -24,6 +24,18 @@
         "custom_model_data": 4
       },
       "model": "custom/sg_barrel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "custom/sg_he_shell"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "custom/sg_ap_shell"
     }
   ]
 }

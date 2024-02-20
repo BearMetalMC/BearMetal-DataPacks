@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "bearmetal:weight/tick",
+      "required": false
+    }
+  ]
+}
