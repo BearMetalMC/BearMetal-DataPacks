@@ -1,0 +1,17 @@
+{
+  "artillery.distant": {
+    "sounds": [
+      "bearmetal:distant-explosion"
+    ]
+  },
+  "artillery.incoming": {
+    "sounds": [
+      "bearmetal:incoming"
+    ]
+  },
+  "artillery.near": {
+    "sounds": [
+      "bearmetal:near-explosion"
+    ]
+  }
+}

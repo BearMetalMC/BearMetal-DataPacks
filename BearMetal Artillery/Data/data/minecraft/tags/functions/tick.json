@@ -1,6 +1,16 @@
 {
-  "values": [{
-    "id": "bearmetalartillery:gustav/tick",
-    "required": false
-  }]
+  "values": [
+    {
+      "id": "bearmetalartillery:gustav/tick",
+      "required": false
+    },
+    {
+      "id": "bearmetalartillery:signal/tick",
+      "required": false
+    },
+    {
+      "id": "bearmetalartillery:projectile/tick",
+      "required": false
+    }
+  ]
 }
