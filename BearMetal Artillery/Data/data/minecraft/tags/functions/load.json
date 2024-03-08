@@ -4,5 +4,6 @@
       "id": "bearmetalartillery:load",
       "required": true
     }
-  ]
+  ],
+  "replace": false
 }

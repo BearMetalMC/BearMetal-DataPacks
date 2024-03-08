@@ -3,5 +3,6 @@
     "bearmetalcarts:load",
     "bearmetalcarts:loader/schedule",
     "bearmetalcarts:placer/schedule"
-  ]
+  ],
+  "replace": false
 }

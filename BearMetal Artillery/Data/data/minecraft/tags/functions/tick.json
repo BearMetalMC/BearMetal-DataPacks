@@ -16,5 +16,6 @@
       "id": "bearmetalartillery:projectile/tick",
       "required": false
     }
-  ]
+  ],
+  "replace": false
 }

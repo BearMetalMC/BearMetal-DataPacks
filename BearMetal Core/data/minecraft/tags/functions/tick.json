@@ -1,8 +1,7 @@
 {
   "values": [
-    {
-      "id": "bearmetal:weight/tick",
-      "required": false
-    }
-  ]
+    "bearmetal:weight/tick",
+    "bearmetalchoochoo:move"
+  ],
+  "replace": false
 }
