@@ -1,0 +1,57 @@
+{
+"Brain": {
+"memories": {}
+  }, "HurtByTimestamp": 0, "IsBaby": 1, "Attributes": [
+    {
+"Base": 0.0, "Modifiers": [
+        {
+"Amount": 0.013533709268466318, "Operation": 0, "UUID": [ -7653448,
+            58081400,
+            -1108027202,
+            1763867821
+          ], "Name": "Random spawn bonus"
+        }
+      ], "Name": "minecraft:generic.knockback_resistance"
+    },
+    {
+"Base": 0.23000000417232513, "Name": "minecraft:generic.movement_speed"
+    },
+    {
+"Base": 0.03058476655635445, "Name": "minecraft:zombie.spawn_reinforcements"
+    },
+    {
+"Base": 35.0, "Modifiers": [
+        {
+"Amount": 0.09868020091250777, "Operation": 1, "UUID": [ -271252115,
+            -591573714,
+            -1815292185,
+            884888639
+          ], "Name": "Random spawn bonus"
+        }
+      ], "Name": "minecraft:generic.follow_range"
+    }
+  ], "Invulnerable": 0, "FallFlying": 0, "PortalCooldown": 0, "AbsorptionAmount": 0.0, "InWaterTime": -1, "FallDistance": 0.0, "DeathTime": 0, "HandDropChances": [
+    0.085,
+    0.085
+  ], "PersistenceRequired": 0, "Motion": [
+    0.0,
+    -0.0784000015258789,
+    0.0
+  ], "Health": 20.0, "LeftHanded": 0, "Air": 300, "OnGround": 1, "Rotation": [
+    261.16898,
+    0.0
+  ], "HandItems": [
+    {},
+    {}
+  ], "ArmorDropChances": [
+    0.085,
+    0.085,
+    0.085,
+    0.085
+  ], "CanBreakDoors": 0, "Fire": -1, "ArmorItems": [
+    {},
+    {},
+    {},
+    {}
+  ], "CanPickUpLoot": 0, "HurtTime": 0, "DrownedConversionTime": -1
+}

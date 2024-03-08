@@ -6,7 +6,7 @@
   - [BearMetal Grinder](#bearmetal-grinder)
     - [Features](#features)
   - [BearMetal Tech Ascension](#bearmetal-tech-ascension)
-  - [Features](#features-1)
+    - [Features](#features-1)
   - [BearMetal Carts](#bearmetal-carts)
     - [Features](#features-2)
   - [BearMetal Medieval Warfare](#bearmetal-medieval-warfare)
@@ -80,7 +80,7 @@ myself. I should look into
   - Endgame items are incredibly difficult to acquire, so there will be ways in the mid-game to prepare to make it easier
   - Resources should start being more plentiful to aid preparation, but not so plentiful that you feel like you don't need to get to endgame
   - Beacons should be feasible to get at this point
-- More powerful lategame
+- More powerful late-game
   - Diamonds don't always drop from blocks, but their recipes are largely the same. Fortune 3 would give roughly a 50% chance of gaining a single diamond
   - Diamond armor gives speed and jump height buffs
   - Netherite armor gives strength and health buffs
@@ -92,7 +92,7 @@ myself. I should look into
 
 It's basically just a proper tech tree. You can only craft recipes when they unlock, and you can only unlock them if you've unlocked their prereqs. Using this as a base should allow for other packs to add their own advancement. Ideally, this will be optional for other packs
 
-## Features
+### Features
 
 - Adds a "researcher" that generates research points
   - Feeding the researcher better items gives more points
